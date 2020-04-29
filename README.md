@@ -1,2 +1,0 @@
-# MiriamKatzmayr
-Created with CodeSandbox
